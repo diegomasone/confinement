@@ -1,5 +1,5 @@
 # confinement 
-*the spatial constraints imposed by boundaries, such as those created by an outer vesicle membrane, which can lead to unique properties and behaviors that differ significantly from those in less restricted settings*
+*...the spatial constraints imposed by boundaries, such as those created by an outer vesicle membrane, which can lead to unique properties and behaviors that differ significantly from those in less restricted settings.*
 
 <img src="https://github.com/user-attachments/assets/021ba2c4-fd22-4cac-acd4-c13d67dc2efa" width="512"/>
 
