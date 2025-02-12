@@ -7,4 +7,4 @@
 
 Initial (spheres) and final configuration files (10us) are provided for small systems of pure DOPC, DTPC and DNPC as well as combinations of DOPC:DTPC and DOPC:DNPC in proportions 1:1, 1:2 and 2:1. Gromacs parameter files (.mdp) for minimization, equilibration and production are also available.
 
-
+Please cite: Confinement Induces Morphological and Topological Transitions in Multivesicles. LS Mayorga, ML Mascotti, BMH Bruininks, D Masone. ACS nano 19 (4), 4515–4527. https://doi.org/10.1021/acsnano.4c14171
